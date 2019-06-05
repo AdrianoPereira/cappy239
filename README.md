@@ -1,3 +1,6 @@
+<center>
+<img src=\"./images/logo-inpe.jpg\" width=\"100\"/>
+</center>
 # INPE CAPPY239 - Análise Espectral de Processos Estocásticos
 Ferramenta desenvolvida para a disciplina CAP 238 Matemática Computacional I - Análise Espectral de Processos  Estocásticos, ministrada pelo Dr. Reinaldo Roberto Rosa no programa de Pós Graduação em Computação Aplicada no Instituto Nacional de Pesquisas Espaciais.
 O módulo possui as seguintes funções:
@@ -47,3 +50,11 @@ Alguns exemplos com 2<sup>12</sup> valores:
 from cappy239 import pmodel
 kolmogorov = pmodel(noValues=4096, p=0.52, slope=-1.66)
 ```
+
+   ______       _       _______  _______  ____  ____  _____   ______    ______   
+ .' ___  |     / \     |_   __ \|_   __ \|_  _||_  _|/ ___ `./ ____ `..' ____ '. 
+/ .'   \_|    / _ \      | |__) | | |__) | \ \  / / |_/___) |`'  __) || (____) | 
+| |          / ___ \     |  ___/  |  ___/   \ \/ /   .'____.'_  |__ '.'_.____. | 
+\ `.___.'\ _/ /   \ \_  _| |_    _| |_      _|  |_  / /_____| \____) || \____| | 
+ `.____ .'|____| |____||_____|  |_____|    |______| |_______|\______.' \______,' 
+                                                           By Adriano P. Almeida                                                                                 
