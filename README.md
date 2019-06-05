@@ -1,5 +1,5 @@
 <center>
-<img src=\"./images/logo-inpe.jpg\" width=\"100\"/>
+<img src="./images/logo-inpe.png" width="100" />
 </center>
 # INPE CAPPY239 - Análise Espectral de Processos Estocásticos
 Ferramenta desenvolvida para a disciplina CAP 238 Matemática Computacional I - Análise Espectral de Processos  Estocásticos, ministrada pelo Dr. Reinaldo Roberto Rosa no programa de Pós Graduação em Computação Aplicada no Instituto Nacional de Pesquisas Espaciais.
