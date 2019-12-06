@@ -8,8 +8,8 @@
 
 __title__ = 'cappy239'
 __description__ = 'Algorithms Computational Mathematics I: Spectral Analysis of Stochastic Processes taught by Dr Reinaldo Roberto Rosa at National Institute for Spacial Research (INPE).'
-__url__ = 'https://adrianopereira.github.io'
-__version__ = '0.0.12'
+__url__ = 'https://github.com/AdrianoPereira/cappy239'
+__version__ = '0.0.13'
 __build__ = 0x022100
 __author__ = 'Adriano P. Almeida'
 __author_email__ = 'adriano.almeida@inpe.br'
